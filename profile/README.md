@@ -1,6 +1,6 @@
-# DevSecOps with AWS
+# DevOps with AWS
 
-Welcome to the **DevSecOps with AWS** Organization.
+Welcome to the **DevOps with AWS** Organization.
 This organization contains hands-on practice projects focused on Infrastructure Automation, Cloud Infrastructure, and DevOps tools.
 
 ## Technologies Used
