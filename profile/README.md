@@ -5,11 +5,11 @@ This organization contains hands-on practice projects focused on Infrastructure 
 
 ## Technologies Used
 
-1. Linux Automation
-1. AWS Infrastructure
-1. Shell/Bash Scripting
-1. Ansible
-1. Terraform
+* Linux Automation
+* AWS Infrastructure
+* Shell/Bash Scripting
+* Ansible
+* Terraform
 
 ## Key Elements
 
