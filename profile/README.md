@@ -28,7 +28,7 @@ This organization contains hands-on practice projects focused on Infrastructure 
 
 ## Learning Focus
 
-* ```Infrastructure as Code (IaC)
+* Infrastructure as Code (IaC)
 * Cloud infrastructure provisioning
 * Automation and configuration management
 * CI/CD concepts
