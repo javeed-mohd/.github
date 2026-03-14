@@ -11,7 +11,7 @@ This organization contains hands-on practice projects focused on Infrastructure 
 1. Ansible
 1. Terraform
 
-## Key Projects
+## Key Elements
 
 * Linux Automation : Linux automation scripts for server setup, configuration, and deployment tasks.
 * Shell Automation : Linux shell scripts used for deployment automation and system configuration.
@@ -19,7 +19,7 @@ This organization contains hands-on practice projects focused on Infrastructure 
 * Ansible Automation : Configuration management and server automation using Ansible playbooks and roles.
 * Terraform Infrastructure : Infrastructure as a Code(IaC) tool provisioning and automation using Terraform.
 
-## Purpose of This Organization
+## Purpose
 
 * Practice DevOps tools and automation
 * Build real-world infrastructure projects
