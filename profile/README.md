@@ -1,4 +1,4 @@
-## DevSecOps with AWS
+# DevSecOps with AWS
 
 Welcome to the DevSecOps with AWS Organization.
 This organization contains hands-on practice projects focused on Infrastructure Automation, Cloud Infrastructure, and DevOps tools.
@@ -19,7 +19,7 @@ This organization contains hands-on practice projects focused on Infrastructure 
 * Ansible Automation : Configuration management and server automation using Ansible playbooks and roles.
 * Terraform Infrastructure : Infrastructure as a Code(IaC) tool provisioning and automation using Terraform.
 
-# Purpose of This Organization
+## Purpose of This Organization
 
 * Practice DevOps tools and automation
 * Build real-world infrastructure projects
