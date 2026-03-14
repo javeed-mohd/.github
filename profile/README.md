@@ -1,15 +1,15 @@
 # DevSecOps with AWS
 
-Welcome to the DevSecOps with AWS Organization.
+Welcome to the **DevSecOps with AWS** Organization.
 This organization contains hands-on practice projects focused on Infrastructure Automation, Cloud Infrastructure, and DevOps tools.
 
 ## Technologies Used
 
-* Linux Automation
-* AWS Infrastructure
-* Shell/Bash Scripting
-* Ansible
-* Terraform
+1. Linux Automation
+1. AWS Infrastructure
+1. Shell/Bash Scripting
+1. Ansible
+1. Terraform
 
 ## Key Projects
 
